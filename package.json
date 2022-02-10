@@ -9,7 +9,7 @@
     "author": "Ayoub",
     "license": "ISC",
     "devDependencies": {
-        "node-sass": "^4.13.0"
+        "node-sass": "^7.0.0"
     },
     "dependencies": {
         "animate.css": "^3.7.2"
